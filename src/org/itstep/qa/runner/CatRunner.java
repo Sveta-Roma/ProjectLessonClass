@@ -5,7 +5,7 @@ import org.itstep.qa.pet.Cat;
 import java.util.Random;
 
 // создаем экземпляр класса Кот -- объект
-public class Runner {
+public class CatRunner {
     public static void main(String[] args) {
     Cat catOne = new Cat();
     catOne.countEyes = 2;
